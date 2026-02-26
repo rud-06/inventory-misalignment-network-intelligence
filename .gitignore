@@ -1,0 +1,10 @@
+# Ignore large datasets
+*.csv
+*.parquet
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+tempCodeRunnerFile.py

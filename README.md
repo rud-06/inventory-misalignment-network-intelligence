@@ -4,7 +4,7 @@ A Multi-Dimensional Supply Chain Intelligence Engine
 
 Detecting Stockout Risk, Phantom Inventory, Demand Decay, Behavioral Nervousness & Network-Level Economic Friction
 
-<img src="https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Parquet-Optimized-orange.svg?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-Executive_Dashboard-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Status-Production_Ready-success.svg?style=for-the-badge"> </div>
+<img src="https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Parquet-Optimized-orange.svg?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-Executive_Dashboard-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=black"> </div>
 
 🔎 Executive Summary
 

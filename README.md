@@ -29,7 +29,7 @@ Each module converts theoretical supply chain distortion into a revenue-denomina
 1️⃣ Demand‑Weighted Service (DWS)
 
 Traditional Hourly Service Rate (HSR) treats a 3:00 AM stockout the same as a 6:00 PM Friday stockout.
-
+DWS filled with 1 for zero-demand days.
 We engineered a Demand‑Weighted Service metric:
 Revenue_at_Risk=Sale_Amount×(1−DWS)
 Revenue_at_Risk=Sale_Amount×(1−DWS)
